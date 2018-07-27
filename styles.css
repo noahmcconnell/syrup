@@ -1,0 +1,147 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color: #fff 
+}
+.row {
+    margin: 0px !important;
+}
+.col-sm-12 {
+    padding: 0px !important;
+}
+.header {
+    width: 100%;
+    height: 618px;
+    background-image: linear-gradient(-180deg, #ffffff  0%, #000000 100%);
+    margin-top: 15px;
+}
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+}
+.navbar-brand {
+    height: auto;
+    color: #fff;
+    margin-top: 32px;
+}
+.navbar-right {
+    float: right !important;
+    margin-top: 5px;
+}
+.navbar-default .navbar-nav > li > a {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    color: #000000;
+    text-transform: uppercase;
+    padding-left: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.header h1 {
+    font-size: 60px;
+    color: #fff;
+    letter-spacing: 1px;
+    padding-top: 110px;
+}
+.header p {
+    font-size: 24px;
+    color: rgba(255,255,255,0.66);
+    line-height: 25px;
+    font-weight: lighter;
+}
+.header span{
+    font-size: 15px;
+    font-style: italic;
+}
+.img-align {
+    width: 480px;
+    height: auto;
+    position: absolute;
+    top: 73px;
+    right: 0;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 10px;
+}
+.row {
+    margin: 0px !important;
+}
+.features h1 {
+    font-weight: bold !important;
+    text-align: center;
+    padding-top: 90px;
+    font-size: 48px;
+    color: #1a1a1a;
+    line-height: 32px;
+}
+.features p {
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    color: #666666;
+    line-height: 30px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+.features .col-sm-4 {
+    padding: 50px;
+}
+.features .img-inline {
+    margin-top: 5px
+
+}
+.features .col-sm-4 h1 {
+    text-align: center;
+    font-weight: lighter !important;
+    font-size: 32px;
+    color: #000000;
+    padding: 0px !important;
+    margin-top: 20px;
+    
+}
+.features .img-inline-center {
+ 
+    margin: auto;
+    margin-top: 5px;
+}
+.features img {
+    
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.features .col-sm-4 p {
+    width: 77%;
+    font-size: 16px;
+    color: #666666;
+    line-height: 22px;
+    margin-bottom: 0px !important;
+}
+.features .col-sm-4:hover {
+
+	background: #FFFFFF;
+	box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.08);
+	cursor: pointer;
+	transition: 0.6s;
+	-webkit-transition: 0.6s;
+	-mz-transition: 0.6s;
+	-o-transition: 0.6s;
+}
+.low {
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 3rem;
+    background-color: #000000;
+    text-align: center;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;  
+}
+
+  
+    
